@@ -4,7 +4,6 @@
 This is a **modern coffee shop landing page** built with **HTML & CSS**. It features a dark stylish theme with a hero section, call-to-action buttons, and coffee statistics.
 
 ---
-
 ## ✨ Features
 
 * 🖼 **Hero Section** with image and catchy headline
